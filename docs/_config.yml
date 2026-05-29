@@ -1,3 +1,15 @@
 title: Johannes Schulze
 description: A collection of projects I am working on
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+url: https://johannesschulze.github.io
+
+author:
+  name: Johannes Schulze
+  github: johannesschulze
+
+minima:
+  social_links:
+    github: johannesschulze
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
