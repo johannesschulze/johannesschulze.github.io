@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Johannes Schulze
 ---
 
 A collection of projects I am working on.
