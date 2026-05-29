@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 A collection of projects I am working on.
